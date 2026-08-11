@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @saakethk
-- 👀 I’m interested in computer science in the finance field.
-- 💞️ I’m looking for internships and other opportunities to grow my knowledge.
+- 👀 I’m interested in:
+  - Data Science for:
+    - Finance
+    - Sports
+    - Health
+    - Any other novel fields
+- 💞️ I’m looking for internships and opportunities to grow my knowledge
 - 📫 You can reach me at saakethr.kesireddy@gmail.com.
 
 <!---
