@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @saakethk
 - 👀 I’m interested in:
+  - Software Engineering
+    - Agentic Software
+    - Local LLM
+    - Machine Learning Optimization
+    - Low-latency programs
   - Data Science for:
     - Finance
     - Sports
